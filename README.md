@@ -1,2 +1,1 @@
-# simpletest
-# 新手测试
+# test
